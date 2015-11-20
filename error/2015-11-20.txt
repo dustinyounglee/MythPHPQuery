@@ -1,0 +1,165 @@
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2015-11-20 13:34:56
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (,,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:37:34
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES ($name,$url,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:38:00
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (安怡桶装水配送公司,http://wap.ganji.com/foshan/fuwu_dian/733092489x/?type=d&pos=1&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (大良水店转客源月300桶,http://wap.ganji.com/foshan/fuwu_dian/733092429x/?type=d&pos=2&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (顺之泉桶装水低至9元/桶,http://wap.ganji.com/foshan/fuwu_dian/733092354x/?type=d&pos=3&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (顺德收桶装水,http://wap.ganji.com/foshan/fuwu_dian/732042133x/?type=d&pos=4&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (华西怡宝水店,http://wap.ganji.com/foshan/fuwu_dian/732047859x/?type=d&pos=5&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (鼎湖山老龙潭山泉五沙金沙人家花园水店,http://wap.ganji.com/foshan/fuwu_dian/732042121x/?type=d&pos=6&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (晨曦甘露水店,http://wap.ganji.com/foshan/fuwu_dian/732047853x/?type=d&pos=7&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (顺德怡宝配送中心,http://wap.ganji.com/foshan/fuwu_dian/732047907x/?type=d&pos=8&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (华山泉专营店,http://wap.ganji.com/foshan/fuwu_dian/732084134x/?type=d&pos=9&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (水谷山谷水龙江龙山分店,http://wap.ganji.com/foshan/fuwu_dian/732084170x/?type=d&pos=10&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (骏业饮用水配送中心,http://wap.ganji.com/foshan/fuwu_dian/732047931x/?type=d&pos=11&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (170桶怡宝5加仑桶装水,原价170,http://wap.ganji.com/foshan/fuwu_dian/732047880x/?type=d&pos=12&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (农夫山泉忠弘乐从水店,http://wap.ganji.com/foshan/fuwu_dian/732047901x/?type=d&pos=13&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (百富露新鲜水牛奶免费送货上门,http://wap.ganji.com/foshan/fuwu_dian/732084140x/?type=d&pos=14&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (富鼎山泉订十桶送台温机一台,http://wap.ganji.com/foshan/fuwu_dian/730050700x/?type=d&pos=15&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (顺德勒流怡宝水配送中心,http://wap.ganji.com/foshan/fuwu_dian/730082459x/?type=d&pos=16&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (容有泉饮用水经营部招收送水员多名,http://wap.ganji.com/foshan/fuwu_dian/720905483x/?type=d&pos=17&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (专业机钻深水井,http://wap.ganji.com/foshan/fuwu_dian/720883948x/?type=d&pos=18&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (乐从劳村送水,http://wap.ganji.com/foshan/fuwu_dian/569442125x/?type=d&pos=19&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (顺德怡宝桶装水直营店,http://wap.ganji.com/foshan/fuwu_dian/448845317x/?type=d&pos=20&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (顺得伦教水之源店,http://wap.ganji.com/foshan/fuwu_dian/448851811x/?type=d&pos=21&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (伦教加林山水店,http://wap.ganji.com/foshan/fuwu_dian/448833303x/?type=d&pos=22&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (甘碧桶装水分店,http://wap.ganji.com/foshan/fuwu_dian/309873142x/?type=d&pos=23&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (顺德大良新城区怡宝总经销,http://wap.ganji.com/foshan/fuwu_dian/163861873x/?type=d&pos=24&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (龙江怡宝特约加盟店,http://wap.ganji.com/foshan/fuwu_dian/163209792x/?type=d&pos=25&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (大良乐百氏、益力,http://wap.ganji.com/foshan/fuwu_dian/150089900x/?type=d&pos=26&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (乐百氏容桂有泉配送中心,http://wap.ganji.com/foshan/fuwu_dian/497220519x/?type=d&pos=27&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (顺德北滘陈村水乐园桶装水店,http://wap.ganji.com/foshan/fuwu_dian/894204062x/?type=d&pos=28&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (包您满意搬家送货,http://wap.ganji.com/foshan/fuwu_dian/624472961x/?type=d&pos=29&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
+错误SQL语句：
+INSERT INTO crm_list (`name`,`href`,`pagename`,`createtime`) VALUES (大良溪源配水中心,http://wap.ganji.com/foshan/fuwu_dian/608619299x/?type=d&pos=30&url=songshui&district=2&d=shunde/&pageSize=30&sticky=2&page=2&adct=,赶集顺德送水公司,NOW())
+客户IP:127.0.0.1
+时间 :2015-11-20 14:39:45
+
